@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPCProject", "IPCProject.csproj", "{6F151D4F-340E-5C89-E406-205A65A2F337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F151D4F-340E-5C89-E406-205A65A2F337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F151D4F-340E-5C89-E406-205A65A2F337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F151D4F-340E-5C89-E406-205A65A2F337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F151D4F-340E-5C89-E406-205A65A2F337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C730AEE-E1CA-4A04-93F6-B17E79CDC2B8}
+	EndGlobalSection
+EndGlobal
