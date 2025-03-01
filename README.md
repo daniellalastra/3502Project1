@@ -1,6 +1,6 @@
 # CSE 3502: Project 1 Multi-Threaded Programming and IPC
 
-##Overview 
+## Overview 
 In this project I was able to dive into two important aspects that operating systems provide: multi-threading as well as interprocess communication. I was able to explore all the difficulties that come with thread synchronization, deadlock handling, and communications through pipes, by implementing this multi-threaded banking system. 
 
 To do this the project is made up of two main parts
